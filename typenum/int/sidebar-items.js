@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Z0",""]],"struct":[["NInt",""],["PInt",""]],"trait":[["Integer","The **marker trait** for compile time signed integers."]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["B0",""],["B1",""]],"trait":[["Bit","The **marker trait** for compile time bits."]]});

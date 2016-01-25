@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["UTerm",""]],"struct":[["UInt",""]],"trait":[["Unsigned","The **marker trait** for compile time unsigned integers."]]});
